@@ -128,6 +128,10 @@ button:hover {
 
 }
 
+.save-task{
+    font-family: 'Oxanium', sans-serif;
+}
+
 /* MAIN */
 main {
     margin-top: 32px;
